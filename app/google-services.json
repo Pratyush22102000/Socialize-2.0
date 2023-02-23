@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "292525723021",
+    "project_id": "dummychatapp-5e92e",
+    "storage_bucket": "dummychatapp-5e92e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292525723021:android:5cf56669392b7bc57a81c4",
+        "android_client_info": {
+          "package_name": "com.example.dummychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292525723021-rj9nudpdhvai974fpscocvkdke1kem57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dummychatapp",
+            "certificate_hash": "f0bb1cf1dd30771bc93305322e5c887d82a97609"
+          }
+        },
+        {
+          "client_id": "292525723021-1ui0bb5rihi6ealqtj16ivg6d4rtq1k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqbyxesv5A3ODBh8M-w-L7gr5zd3wZxqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292525723021-1ui0bb5rihi6ealqtj16ivg6d4rtq1k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
